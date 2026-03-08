@@ -31,9 +31,8 @@ This application helps users generate strong passwords, store them securely, and
 
 ![Login Screen](Screenshot 2026-03-08 114538.png)
 
-### Password Manager Dashboard
-
-Add another screenshot here after uploading it.
+Password Manager Dashboard
+![Dashboard](dashboard.png).
 
 ---
 
