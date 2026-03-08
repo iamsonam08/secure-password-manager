@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+secret.key
+master.key
+database.json
